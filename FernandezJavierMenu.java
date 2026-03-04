@@ -14,7 +14,6 @@ public class FernandezJavierMenu {
 
     private String sorpresa;
 
-
     public FernandezJavierMenu(String platoPrincipal, double precioPlatoPrincipal,
                                String complemento, double precioComplemento,
                                String postre, double precioPostre,
